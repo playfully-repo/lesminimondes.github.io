@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.9b1b9fd1.css",
-    "main.js": "/static/js/main.80645bfa.js",
+    "main.js": "/static/js/main.529da7a8.js",
     "static/js/787.5f22abb8.chunk.js": "/static/js/787.5f22abb8.chunk.js",
+    "static/media/playfullylogo.png": "/static/media/playfullylogo.e3f02cef4972c2587123.png",
     "index.html": "/index.html",
     "main.9b1b9fd1.css.map": "/static/css/main.9b1b9fd1.css.map",
-    "main.80645bfa.js.map": "/static/js/main.80645bfa.js.map",
+    "main.529da7a8.js.map": "/static/js/main.529da7a8.js.map",
     "787.5f22abb8.chunk.js.map": "/static/js/787.5f22abb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b1b9fd1.css",
-    "static/js/main.80645bfa.js"
+    "static/js/main.529da7a8.js"
   ]
 }
